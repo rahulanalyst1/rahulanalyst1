@@ -35,13 +35,9 @@ SQL Top 5% Globally on LeetCode
 
 
 Advanced SQL
-
 Excel & Power Query
-
 Tableau
-
 Data Warehousing
-
 Business Analytics
 
 # 📊 GitHub Stats:

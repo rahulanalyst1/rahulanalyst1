@@ -35,10 +35,28 @@ SQL Top 5% Globally on LeetCode
 
 
 Advanced SQL
+
 Excel & Power Query
+
 Tableau
+
 Data Warehousing
+
 Business Analytics
+
+🚀 Projects
+
+🏗️ Data Warehouse & Analytics Project
+
+[![SQL PROJECT](https://img.shields.io/badge/SQL_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulanalyst1/sql_data_warehouse_project)
+
+📊 Sales Intelligence Dashboard
+
+[![TABLEAU PROJECT](https://img.shields.io/badge/TABLEAU_PROJECT-007ACC?style=for-the-badge)](https://github.com/rahulanalyst1/sql-tableau-sales-project-)
+
+📉 Customer Churn Analysis
+
+[![PYTHON PROJECT](https://img.shields.io/badge/PYTHON_PROJECT-3776AB?style=for-the-badge&logo=python&logoColor=white)](YOUR_LINK)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rahulanalyst1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>

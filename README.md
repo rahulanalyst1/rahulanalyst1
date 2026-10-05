@@ -10,7 +10,32 @@ Hi 👋, I'm Rahul
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-analysts/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Rahulsharmasdm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gar923139@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+Data Analysis
+SQL | Excel | Tableau | Python
+
+Databases
+SQL Server | MySQL
+
+Data Visualization
+Tableau | Dashboard Development | Data Visualization
+
+Data Processing
+Power Query | Data Cleaning | Data Transformation | ETL
+
+📊 Analytics
+
+500+ SQL Problems Solved
+SQL Top 5% Globally on LeetCode
+70+ Tableau Visualizations
+
+🎯 Current Focus
+
+Advanced SQL
+Excel & Power Query
+Tableau
+Data Warehousing
+Business Analytics
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rahulanalyst1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=rahulanalyst1&theme=dark&hide_border=false)<br/>

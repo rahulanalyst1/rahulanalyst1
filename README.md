@@ -27,9 +27,13 @@ Power Query | Data Cleaning | Data Transformation | ETL
 
 📊 Analytics
 
-500+ SQL Problems Solved
-SQL Top 5% Globally on LeetCode
-70+ Tableau Visualizations
+🧠 Solved 500+ SQL Problems.
+
+📊 Created 70+ Tableau Visualizations.
+
+💡 Strong interest in Data Visualization, and Problem Solving.
+
+- 🔥 Passionate about Data Analysis and Business Insights
 
 🎯 Current Focus
 

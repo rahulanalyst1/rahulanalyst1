@@ -1,6 +1,5 @@
 Hi 👋, I'm Rahul 
- 
- Data Analyst | Analyst <br>
+
  
 # 💫 About Me:
  Data Analyst | Analyst <br>I enjoy turning raw and complex datasets into clear, actionable insights that help solve real-world business problems. I work with SQL, Excel, Tableau, and Python across data analysis, visualization, ETL, and data warehousing. I’m interested in uncovering meaningful patterns, answering business questions, and building practical solutions that support data-driven decisions.<br><br>* 🔭 Currently focusing on Data Analytics & Business Intelligence.<br>* 📊 Analyzing data to uncover business insights and trends.<br>* 💻 Strong foundation in SQL, Excel, Tableau, and Python.<br>* 🗄️ Working with data cleaning, transformation, ETL, and data analysis.<br>* 📈 Building interactive Tableau dashboards and KPI reports.<br>* 🏗️ Exploring Data Warehousing, Data Modeling, and ETL pipelines.<br>* 🧠 Practicing SQL problem-solving and analytical thinking.<br>* 🔍 Interested in Business Analytics, Data-Driven Decision Making, and BI.<br><br>

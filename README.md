@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋, I'm Rahul 
+ Data Analyst | Analyst <br>I enjoy turning raw and complex datasets into clear, actionable insights that help solve real-world business problems. I work with SQL, Excel, Tableau, and Python across data analysis, visualization, ETL, and data warehousing. I’m interested in uncovering meaningful patterns, answering business questions, and building practical solutions that support data-driven decisions.<br><br>* 🔭 Currently focusing on Data Analytics & Business Intelligence.<br>* 📊 Analyzing data to uncover business insights and trends.<br>* 💻 Strong foundation in SQL, Excel, Tableau, and Python.<br>* 🗄️ Working with data cleaning, transformation, ETL, and data analysis.<br>* 📈 Building interactive Tableau dashboards and KPI reports.<br>* 🏗️ Exploring Data Warehousing, Data Modeling, and ETL pipelines.<br>* 🧠 Practicing SQL problem-solving and analytical thinking.<br>* 🔍 Interested in Business Analytics, Data-Driven Decision Making, and BI.<br><br>
 
-<!--
-**rahulanalyst1/rahulanalyst1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rahul Sharma ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-analysts/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Rahulsharmasdm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gar923139@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rahulanalyst1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rahulanalyst1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahulanalyst1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=rahulanalyst1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

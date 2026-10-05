@@ -33,10 +33,15 @@ SQL Top 5% Globally on LeetCode
 
 🎯 Current Focus
 
+
 Advanced SQL
+
 Excel & Power Query
+
 Tableau
+
 Data Warehousing
+
 Business Analytics
 
 # 📊 GitHub Stats:

@@ -10,15 +10,19 @@ Hi 👋, I'm Rahul
 
 # 💻 Tech Stack:
 Data Analysis
+
 SQL | Excel | Tableau | Python
 
 Databases
+
 SQL Server | MySQL
 
 Data Visualization
+
 Tableau | Dashboard Development | Data Visualization
 
 Data Processing
+
 Power Query | Data Cleaning | Data Transformation | ETL
 
 📊 Analytics

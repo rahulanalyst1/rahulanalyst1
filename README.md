@@ -1,4 +1,4 @@
-Hi 👋, I'm Rahul 
+eHi 👋, I'm Rahul 
 
  
 # 💫 About Me:
@@ -25,7 +25,7 @@ Data Processing
 
 Power Query | Data Cleaning | Data Transformation | ETL
 
-📊 Analytics
+📈 Analytics
 
 🧠 Solved 500+ SQL Problems.
 
@@ -33,7 +33,7 @@ Power Query | Data Cleaning | Data Transformation | ETL
 
 💡 Strong interest in Data Visualization, and Problem Solving.
 
-- 🔥 Passionate about Data Analysis and Business Insights
+🔥 Passionate about Data Analysis and Business Insights
 
 🎯 Current Focus
 

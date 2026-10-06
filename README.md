@@ -1,4 +1,4 @@
-eHi 👋, I'm Rahul 
+Hi 👋, I'm Rahul 
 
  
 # 💫 About Me:

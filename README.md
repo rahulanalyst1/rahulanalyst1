@@ -44,13 +44,13 @@ Excel & Power Query
 
 Tableau
 
-Data Warehousing
+Data Analytics
 
 Business Analytics
 
 🚀 Projects
 
-🏗️ Data Warehouse & Analytics Project
+🏗️ SQL Exploratory & Analytical Analysis
 
 [![SQL PROJECT](https://img.shields.io/badge/SQL_PROJECT-3776AB?style=for-the-badge)](https://github.com/rahulanalyst1/sql_data_warehouse_project)
 
